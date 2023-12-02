@@ -1,0 +1,8 @@
+@startuml
+
+class CalibrationCalculator {
++ calculateSum(f: File): int
++ isNumber(c: char): boolean
+}
+
+@enduml
